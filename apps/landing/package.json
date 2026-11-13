@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "chora": "npm:@chora-io/chora@v0.1.0-beta12",
-    "next": "^14",
+    "next": "^16",
     "react": "^18",
     "react-dom": "^18"
   },
