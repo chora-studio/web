@@ -24,7 +24,7 @@
     "chora": "npm:@chora-io/chora@v0.1.0-beta12",
     "next": "^14",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^19"
   },
   "devDependencies": {
     "@types/node": "^22",
