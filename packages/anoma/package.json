@@ -24,6 +24,6 @@
     "eslint": "^9",
     "prettier": "^3",
     "ts-proto": "^2",
-    "typescript": "^5"
+    "typescript": "^7"
   }
 }
