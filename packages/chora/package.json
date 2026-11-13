@@ -38,6 +38,6 @@
     "eslint": "^9",
     "postcss": "^8",
     "prettier": "^3",
-    "typescript": "^5"
+    "typescript": "^7"
   }
 }
