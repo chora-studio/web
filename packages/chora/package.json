@@ -23,7 +23,7 @@
     "@keplr-wallet/types": "^0.12",
     "cosmos": "workspace:*",
     "react": "^18",
-    "react-dom": "^18",
+    "react-dom": "^19",
     "remark": "^15",
     "remark-html": "^16"
   },
