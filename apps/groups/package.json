@@ -23,7 +23,7 @@
   "dependencies": {
     "chora": "workspace:*",
     "cosmos": "workspace:*",
-    "jsonld": "^8",
+    "jsonld": "^9",
     "next": "^14",
     "react": "^18",
     "react-dom": "^18",
